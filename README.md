@@ -1,4 +1,4 @@
-# Predicting NYT Bestseller using Natural Language Processing
+# CS 2470 Final Project: Predicting NYT Bestseller using Natural Language Processing
 
 ## Step 1: Web Scraping
 
