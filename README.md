@@ -1,1 +1,3 @@
-# DL_Finalproject_CS2470
+# Predicting NYT Bestseller using NLP
+
+## 1) Web Scraping: Refer to 
