@@ -1,3 +1,13 @@
-# Predicting NYT Bestseller using NLP
+# Predicting NYT Bestseller using Natural Language Processing
 
-## 1) Web Scraping: Refer to 
+## Step 1: Web Scraping
+
+- Refer to 
+
+## Step 2: EDA
+
+- Refer to 
+
+## Step 3: Modelling
+
+- Refer to 
