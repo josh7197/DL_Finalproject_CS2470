@@ -2,9 +2,9 @@
 
 ## Step 1: Web Scraping
 
-- Our group started out by scraping data from the web, leveraging the GoodReads, NYT API along with Amazon Books, to fetch meta information for each book. Navigate to the following notebook for the technical implementation: Amazon_Web_Scrapper_Code.ipynb, scraper.ipynb. 
+- Our group started out by scraping data from the web, leveraging the GoodReads, NYT API along with Amazon Books, to fetch meta information for each book. Navigate to the following notebooks for the technical implementation: Amazon_Web_Scrapper_Code.ipynb, scraper.ipynb. 
 
-#### Note: We referenced krbarounis kickstarter code to get a working data set before running EDA to match our problem scope.
+#### Note: We referenced krbarounis kickstarter code to get a working data set before running EDA to better fit our problem scope.
 
 ## Step 2: EDA
 
